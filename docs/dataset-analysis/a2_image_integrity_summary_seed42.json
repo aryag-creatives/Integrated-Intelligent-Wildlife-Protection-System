@@ -1,0 +1,11 @@
+{
+  "expected_images": 2901,
+  "files_found": 2901,
+  "valid_jpegs": 2901,
+  "invalid_or_missing": 0,
+  "exact_duplicate_groups": 0,
+  "images_in_duplicate_groups": 0,
+  "unique_sha256": 2901,
+  "elapsed_minutes": 0.2,
+  "integrity_status": "PASS"
+}

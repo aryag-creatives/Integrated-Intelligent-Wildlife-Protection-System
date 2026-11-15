@@ -1,0 +1,12 @@
+{
+  "images_hashed": 2901,
+  "unique_images_compared": 4206450,
+  "phash_size_bits": 64,
+  "candidate_threshold_hamming_distance": 8,
+  "near_duplicate_candidate_pairs": 0,
+  "cross_split_candidate_pairs": 0,
+  "within_split_candidate_pairs": 0,
+  "strong_candidates_distance_0_to_4": 0,
+  "elapsed_minutes": 1.24,
+  "review_status": "NO_CANDIDATES"
+}

@@ -1,0 +1,43 @@
+{
+  "stage": "A2",
+  "audit": "full_source_image_inventory",
+  "created_utc": "2026-11-03T11:16:09.958478+00:00",
+  "inventory_file": "/content/drive/MyDrive/CAPSTONE_YOLO_Project/reports/A2/a2_full_source_image_inventory.csv",
+  "inventory_sha256": "7a4368b19314151c8b8956db4cc0c982b08c4adceee51a974fe27d05afbdc2e1",
+  "actual_counts": {
+    "train": {
+      "source_images": 1743042,
+      "target_images": 843901
+    },
+    "validation": {
+      "source_images": 37306,
+      "target_images": 13356
+    },
+    "test": {
+      "source_images": 112194,
+      "target_images": 40430
+    }
+  },
+  "total_source_images": 1892542,
+  "total_target_images": 897687,
+  "negative_status_counts": {
+    "NOT_APPLICABLE": 897687,
+    "NOT_VERIFIED": 994855
+  },
+  "checks": {
+    "train_source_images_matches": true,
+    "train_target_images_matches": true,
+    "validation_source_images_matches": true,
+    "validation_target_images_matches": true,
+    "test_source_images_matches": true,
+    "test_target_images_matches": true,
+    "total_source_images_matches": true,
+    "total_target_images_matches": true
+  },
+  "overall_status": "PASS",
+  "random_sampling_performed": false,
+  "source_annotations_modified": false,
+  "images_downloaded": false,
+  "cleaning_completed": false,
+  "historical_2499_image_sample": "SUPERSEDED_NOT_USED_AS_MAIN_POPULATION"
+}

@@ -1,0 +1,10 @@
+{
+  "objects_clustered": 7537,
+  "classes_clustered": 4,
+  "clusters_per_class": 12,
+  "pca_components_target": 50,
+  "fit_split": "train_only",
+  "validation_test_assignment": "nearest_training_fitted_centroid",
+  "elapsed_minutes": 0.14,
+  "status": "PASS"
+}

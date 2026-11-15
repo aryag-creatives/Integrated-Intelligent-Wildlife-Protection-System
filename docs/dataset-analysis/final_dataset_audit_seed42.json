@@ -1,0 +1,31 @@
+{
+    "project": "CAPSTONE_YOLO_Project",
+    "dataset": "Open Images V7 selected four-class dataset",
+    "random_seed": 42,
+    "classes": {
+        "0": "Person",
+        "1": "Dog",
+        "2": "Cattle",
+        "3": "Squirrel"
+    },
+    "images": 2901,
+    "annotations": 7537,
+    "split_images": {
+        "train": 1999,
+        "validation": 340,
+        "test": 562
+    },
+    "split_annotations": {
+        "train": 5612,
+        "validation": 690,
+        "test": 1235
+    },
+    "yolo_format_validation": "PASS",
+    "missing_labels": 0,
+    "empty_labels": 0,
+    "invalid_boxes": 0,
+    "invalid_classes": 0,
+    "split_preservation": "PASS",
+    "test_split_used_for_training": false,
+    "timestamp_utc": "2026-11-04T10:19:44.168844+00:00"
+}

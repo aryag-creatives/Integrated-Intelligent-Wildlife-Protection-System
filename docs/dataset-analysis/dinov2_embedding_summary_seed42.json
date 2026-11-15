@@ -1,0 +1,14 @@
+{
+  "model": "facebook/dinov2-small",
+  "embedding_dimension": 384,
+  "expected_annotations": 7537,
+  "successful_embeddings": 7537,
+  "failed_crops": 0,
+  "embedding_shape": [
+    7537,
+    384
+  ],
+  "all_finite": true,
+  "elapsed_minutes": 1.73,
+  "status": "PASS"
+}

@@ -1,0 +1,11 @@
+split,class_count,image_count
+test,1,38873
+test,2,1528
+test,3,29
+train,1,831678
+train,2,12102
+train,3,120
+train,4,1
+validation,1,12828
+validation,2,516
+validation,3,12
